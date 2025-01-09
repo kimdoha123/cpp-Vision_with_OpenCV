@@ -99,7 +99,7 @@ for문은 반복문으로서 n번 반복
 .for문의 반복을 결정하는 i 변수는 양수만 의미가 있기에 unsigned 가 붙음.
 ---
 ## 배열명/배열명[인덱스]/메모리 주소값
-![Image]("C:\Users\iot\Pictures\Screenshots\스크린샷 2025-01-09 185611.png")
+![스크린샷](https://github.com/user-attachments/assets/a2f5b8a6-e569-43b3-a61b-ee53de46157e)
 ---
 ## 오퍼레이터 작동 원리
 ```
@@ -110,12 +110,14 @@ c = b + a++;	//이 때, a = 1
 ```
 ---
 ## 데이터가 저장된 메모리 주소별 확인
-![Image]("C:\Users\iot\Pictures\Screenshots\스크린샷 2025-01-09 190207.png")
+![스크린샷 2025-01-09 190207](https://github.com/user-attachments/assets/32600fbe-f7ff-485f-a74d-5df2e45e8a68)
+
 ---
 ## 포인터와 배열명 / 배열[인덱스]의 관계
 .배열명 ++의 경우, 배열명이 가리키는 대표주소값이 매번 증가된 주소를 디폴트로 가리킴
 그러니 for문에서 i가 열 번 돌 때, 기존 정의된 배열 범위를 넘어서는 버그 발견.
-![Image]("C:\Users\iot\Pictures\Screenshots\스크린샷 2025-01-09 190519.png")
+![스크린샷 2025-01-09 190519](https://github.com/user-attachments/assets/f332da92-3c87-4f16-8c53-29f43680409d)
+
 
 ---
 ---
